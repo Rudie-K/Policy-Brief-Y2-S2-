@@ -1,0 +1,236 @@
+Vagrancy Act 1824 Arrests and Charges	
+1 April 2019 - 31 March 2023	
+	
+Protective Marking	OFFICIAL
+Suitable for Publication Scheme	
+Reference Number	01/FOI/23/033296
+Relevant to	
+Summary	Vagrancy Act 1824 Arrests and Charges for the date range 1 April 2019 - 31 March 2023
+Author	
+Creating Branch / Directorate	Custody & Criminal Justice Performance
+Date Created	23 October 2023
+Review Date	N/A
+	
+This report uses LIVE DATA extracted from: NSPIS & CONNECT (via Tableau)	
+Date Live data was extracted:  23/10/2023	
+
+
+									
+Reference		01/FOI/23/033296							
+									
+Request		We would like to know the total number of people who were arrested under the Vagrancy Act 1824 during the full financial years 2022/23, 2021/22, 2020/21							
+		 and 2019/20. We would also like to know for the age groups 16 -17 and 18- 25: the reasons for arrest and the frequency of each of the reasons.							
+		Additionally, we would like to know the total number of people who were charged under the Vagrancy Act 1824 during the full financial years 2022/23, 2021/22,  							
+		2020/21 and 2019/20.							
+									
+		We would also like to know for the age groups 16 -17 and 18- 25: the subject of charges and frequency of the each of the charges.							
+		We would like the responses to our requests to be age segmented.							
+									
+		Format of responses: 							
+		We have attached a template spreadsheet to this request for you to enter your response. Greyed out boxes in the template do not need to be completed.							
+		Freedom of Information request:							
+									
+		We kindly request the information in the query below.							
+		We are requesting data for:							
+		•	Annual total: 1st April 2022 – 31st March 2023						
+		•	Annual total: 1st April 2021 – 31st March 2022						
+		•	Annual total: 1st April 2020 – 31st March 2021						
+		•	Annual total: 1st April 2019 – 31st March 2020						
+		Additionally, we are requesting the data to be age segmented in to the following groups:							
+		•	16 - 17						
+		•	18 - 25						
+		•	26 - 35						
+		•	36 - 45						
+		•	46 - 55						
+		•	56 - 65						
+		•	66+						
+									
+									
+									
+									
+Notes		Data taken from NSPIS and CONNECT Custody systems on 23/10/23							
+									
+		Dates	Arrest Dates						
+			1/4/19 - 31/3/23						
+									
+		Data extracted is based on the the first arrest date.							
+									
+		The number of custody records do not equal the number of individuals. For example, an individual may have been arrested twice within the time							
+		period stated.							
+									
+		The offence title does not indicate the outcome.  For example, some offence titles may have resulted in 'no further action'.							
+									
+		Age has been provided using  the 'Age at Arrest' field.							
+									
+		In accordance with the request, the data was restricted to the following CJS codes:							
+									
+		VG24003	Begging and wandering abroad						
+		VG24005	Begging in a public place						
+		VG24013	Begging in a public place - second or subsequent occasion						
+		VG24015	Begging and wandering abroad - second / subsequent occasion						
+		VG24017	Lodging in a barn / outhouse / unoccupied building / open air - Vagrancy Act 1824						
+		VG24018	Vagrant - being found in or upon enclosed premises						
+		VG24021	Gather / collect alms / charitable donations by false pretence / fraud						
+		VG24047	Persistently beg in a public place ( second or subsequent offence ) - Vagrancy Act 1824						
+									
+		In CONNECT, offences can also be recorded under a 'Reason for Arrest' (RFA).  For CONNECT data, the following RFA's were additionally searched for:							
+		Begging							
+		Begging - Persistent							
+		Found on enclosed premises.							
+									
+		Note that a template was mentioned in the above request.  This has not been seen by the data analyst so the response has been constructed as follows:							
+									
+		There are 4 reports attached which are as follows:							
+									
+		Report 1 - Arrests  under the Vagrancy Act 1824  - 1 April 2019 - 31 March 2023							
+									
+		The custody records had at least one relevant offence entered on the custody record.							
+									
+		Report 2 - Detainees Charged for Offences under the Vagrancy Act 1824 - 1 April 2019 - 31 March 2023							
+									
+		The custody records shown with a 'charge' had at least one relevant offence with one of the following latest disposals:							
+		Charge							
+		Charged and Bailed To Court							
+		Charged and Detained For Court							
+		To Court (Postal Requisitions)							
+									
+		 Report 3 - Reasons for Arrest for Age Groups 16-17 and 18-25 for custody records with offences under Vagrancy Act 1824 Apr 19 - Mar 23							
+									
+		The report shows the 'First Reason for Arrest (RFA)'  (NSPIS) / 'RFA Offence Description' (CONNECT) for the arrests of those falling into the age ranges 							
+		16-17 or 18-25 where there has been at least one relevant offence recorded on the custody record under the Vagrancy Act 1824.							
+		It should be noted that a detainee may have been arrested for multiple offences and/or arrested for other offences not relating to those under the 							
+		Vagrancy Act 1824.							
+									
+		 Report 4 - Offence Titles for Charges for Age Groups 16-17 and 18-25 for offences under Vagrancy Act 1824 Apr 19 - Mar 23							
+									
+		The report lists the offences where those aged 16-17 or 18-25 have been charged with an offence falling under the Vagrancy Act 1824.							
+		See the notes under 'Report 2' for additional information.  							
+		All offence titles that received a charge have been shown in this report for the specified age ranges over the requested time period.							
+
+
+[ see Notes ]						
+						
+Report 1 -Arrests  under the Vagrancy Act 1824  - 1 April 2019 - 31 March 2023						
+						
+Age At Arrest Group	FY 19-20	FY 20-21	FY 21-22	FY 22-23	Grand Total	
+10-15	11	10	5	3	29	
+16-17	27	24	11	1	63	
+18-25	62	59	33	20	174	
+26-35	48	72	29	40	189	
+36-45	52	38	33	17	140	
+46-55	27	17	27	17	88	
+56-65	7	4	5	3	19	
+Over 66	0	1	1	0	2	
+Unknown	0	0	1	0	1	
+Grand Total	234	225	145	101	705	
+
+
+[ see Notes ]										
+										
+Report 2 - Detainees Charged for Offences under the Vagrancy Act 1824 - 1 April 2019 - 31 March 2023										
+										
+Age At Arrest Group	FY 19-20	FY 20-21	FY 21-22	FY 22-23	Grand Total					
+10-15	3	4	1	0	8					
+16-17	10	7	2	0	19				"See
+Report 4"	
+18-25	36	29	12	3	80					
+26-35	25	40	16	20	101					
+36-45	32	24	19	7	82					
+45-55	18	13	19	13	63					
+56-65	6	3	3	3	15					
+Over 66	0	0	0	0	0					
+Grand Total	130	120	72	46	368					
+
+
+[ see Notes ]									
+									
+ Report 3 - Reasons for Arrest for Age Groups 16-17 and 18-25 for custody records with offences under Vagrancy Act 1824 - 1 Apr 19 - 31 Mar 23									
+									
+Age 16-17									
+									
+Reason for Arrest Title	Total								
+Begging  **COZ**	1								
+Breach of Court Order	1								
+Burglary Dwelling  **COZ**	5								
+Burglary Non Dwelling  **COZ**	7								
+Criminal Damage - Non Dwelling	3								
+Drugs - Posess W/I to Supply Class B	1								
+Drugs - Possession Class B	6								
+Drugs - Produce Class B	1								
+Going Equipped **COZ**	2								
+Immigration. illegal entry	1								
+Obstructing police	1								
+Other - Non Notifiable	4								
+Other - Notifiable	17								
+Own protection	1								
+Possession of Offensive Weapon - Knife	1								
+Public order. other	1								
+Robbery - Personal  **COZ**	1								
+Theft - Other  **COZ**	2								
+Theft of Pedal Cycle  **COZ**	2								
+Theft of Vehicle  **COZ**	2								
+Trespass/enclosed premises	3								
+Grand Total	63								
+									
+									
+Age 18-25									
+									
+Reason for Arrest Title	Total								
+ABH	2								
+Allowed to be Carried**COZ**	1								
+Assault police officer	1								
+Begging  **COZ**	22								
+Breach of Court Order	1								
+Burglary Dwelling  **COZ**	37								
+Burglary Non Dwelling  **COZ**	14								
+Criminal Damage - Dwelling	1								
+Criminal Damage - Non Dwelling	4								
+Drugs - Concerned in Supply Class A  **COZ**	1								
+Drugs - Posess W/I to Supply Class B	10								
+Drugs - Possession Class A  **COZ**	1								
+Drugs - Possession Class B	7								
+Drugs - Supply Class B	1								
+Found on enclosed Premises	3								
+GBH	1								
+Going Equipped	2								
+Going Equipped **COZ**	1								
+Handling  **COZ**	2								
+Murder. attempt	1								
+No insurance	1								
+Other - Non Notifiable	3								
+Other - Notifiable	28								
+Other violence	1								
+Possession of a Pointed/Bladed Article - Knife	3								
+Possession of Firearms - Without Intent	1								
+Possession of Offensive Weapon - Knife	1								
+Public order. other	1								
+Robbery - Personal  **COZ**	1								
+Theft - Of Motor Vehicle	1								
+Theft - Other  **COZ**	1								
+Theft from Shop  **COZ**	3								
+Theft from Vehicle  **COZ**	1								
+Theft of Pedal Cycle  **COZ**	1								
+Theft of Vehicle  **COZ**	2								
+Trespass/enclosed premises	11								
+TWOC - Take a motor vehicle without the owners consent	1								
+Grand Total	174								
+
+
+[ see Notes ]					
+					
+ Report 4 - Offence Titles for Charges for Age Groups 16-17 and 18-25 for offences under Vagrancy Act 1824 1 Apr 19 - 31 Mar 23					
+					
+Age 16-17					
+					
+Offence Title	Total				
+Vagrant - being found in or upon enclosed premises	19				
+					
+					
+Age 18-25					
+					
+Offence Title	Total				
+Begging in a public place	16				
+Begging in a public place - second or subsequent occasion	1				
+Persistently beg in a public place ( second or subsequent offence ) - Vagrancy Act 1824	1				
+Vagrant - being found in or upon enclosed premises	62				
+Grand Total	80				
